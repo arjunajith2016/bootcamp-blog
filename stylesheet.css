@@ -1,0 +1,15 @@
+* {
+	font-family: sans-serif;
+	border: 1px dotted blue;
+	}
+
+img {
+}
+
+table, td {
+	border: 1px #70b8ff dashed;
+}
+
+h1 {
+	text-align: center;
+}
