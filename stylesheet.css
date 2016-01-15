@@ -1,11 +1,17 @@
 body {
-	font-family: Brandon Grotesque,Futura, Tahoma, sans-serif;
+	font-family: brandonGotesqueLight, Futura, Tahoma, sans-serif;
 	color:white;
 	text-align: center;
 	background-color: white;
 	margin: 0px;
 	padding: 0px;
 	}
+
+@font-face {
+    font-family: 'brandonGotesqueLight';
+    src: url(Brandon_light.otf);
+}
+
 
 #index {
 	background: url("bg6.jpg") no-repeat center fixed; 
